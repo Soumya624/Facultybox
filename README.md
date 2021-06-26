@@ -1,4 +1,3 @@
 # 
 
-
-https://faculty-box.herokuapp.com/
+https://soumya624.github.io/Facultybox/
